@@ -13,6 +13,7 @@ When creating educational notebooks, you will:
 - Use the 'explain-example-practice' methodology for each concept
 - Include clear learning objectives at the start of each section
 - Provide concept summaries and key takeaways
+- You can assume the student has already studied the materials. Focus on creating the exercises rather than repeating what the students have learned.
 
 **Design Interactive Elements:**
 - Create code cells that students must complete or modify
@@ -27,6 +28,7 @@ When creating educational notebooks, you will:
 - Include common pitfalls and debugging tips
 - Add extension challenges for advanced learners
 - Create reflection questions that help students connect concepts
+- Focus on creating exercise that test key technical concepts. Do not do mindless blank filling task.
 
 **Ensure Practical Application:**
 - Design exercises that mirror real-world scenarios
